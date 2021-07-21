@@ -1,0 +1,42 @@
+html, body {
+    width: 60%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:cadetblue;
+    color: black;
+}
+
+.container {
+    width: 360px;
+}
+
+#input-field {
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    padding: 0px 0px 0px 8px;
+}
+
+#add-todo {
+    height: 48px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.todos {
+    margin-top: 35px;
+}
+
+.paragraph-styling {
+    margin: 10px 0px;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 0px 10px 10px;
+    background-color: white;
+    border: 1px solid black;
+}
